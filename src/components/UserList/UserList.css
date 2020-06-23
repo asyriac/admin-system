@@ -1,0 +1,13 @@
+.btn-download {
+  text-decoration: none;
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 0.1rem;
+  color: white;
+  background-color: black;
+}
+
+.search {
+  margin: 1rem;
+  padding: 1rem;
+}

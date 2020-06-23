@@ -1,0 +1,13 @@
+export const ADD_USER = "ADD_USER";
+export const GET_USERS = "GET_USERS";
+export const EDIT_USER = "EDIT_USER";
+export const CANCEL_EDIT = "CANCEL_EDIT";
+export const SAVE_EDIT = "SAVE_EDIT";
+export const DELETE_USER = "DELETE_USER";
+
+export const ADD_CATEGORY = "ADD_CATEGORY";
+export const GET_CATEGORIES = "GET_CATEGORIES";
+export const EDIT_CATEGORY = "EDIT_CATEGORY";
+export const SAVE_EDIT_CATEGORY = "SAVE_EDIT_CATEGORY";
+export const CANCEL_EDIT_CATEGORY = "CANCEL_EDIT_CATEGORY";
+export const DELETE_CATEGORY = "DELETE_CATEGORY";

@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "date": "6/23/2020",
+      "id": 1
+    },
+    {
+      "name": "Doe",
+      "email": "doe@gmail.com",
+      "date": "6/23/2020",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "Car",
+      "subcat": [
+        "Fast",
+        "gear",
+        "diesel",
+        "petrol",
+        ""
+      ],
+      "id": 1
+    },
+    {
+      "name": "Mobile",
+      "subcat": [
+        "processor",
+        "intel",
+        "ram",
+        "memory",
+        "camera",
+        "speaker",
+        ""
+      ],
+      "id": 2
+    }
+  ]
+}
